@@ -2,7 +2,7 @@
 
 Hello! I'm Sumaib Hamza, but you can call me Simi.
 
-As Senior Android Native Developer & Freelancer at [Rectifi](https://www.fiverr.com/rectifi), I lead a dedicated team of experts in crafting exceptional Android applications. With over 5 years of experience in Java and Kotlin, we excel in UI/UX design and development, creating apps that are both visually stunning and highly functional.
+As Senior Android Native Developer & Freelancer at [Fiverr.](https://www.fiverr.com/rectifi), I lead a dedicated team of experts in crafting exceptional Android applications. With over 5 years of experience in Java and Kotlin, we excel in UI/UX design and development, creating apps that are both visually stunning and highly functional.
 
 At Rectfi, we prioritize proactive communication, transparency, and collaboration, ensuring every project exceeds expectations. To put it simply, I tell my family, “We make apps dance with joy!”
 
@@ -22,7 +22,7 @@ At Rectfi, we prioritize proactive communication, transparency, and collaboratio
 - Android app development, UI/UX design, and strategies for successful app launches.
 
 ### 📫 How to reach me:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sumaib-h/) or via email at sumaibh@gmail.com.
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sumaib-h/) or [Fiverr.](https://www.fiverr.com/rectifi) or via email at sumaibh@gmail.com.
 
 ### 😄 Pronouns:
 - He/Him
