@@ -28,4 +28,6 @@ As a Senior Native Android Developer & Freelancer, I have over 4 years of experi
 
 - **[Calculator Lock App](https://play.google.com/store/apps/details?id=calculatorlock.hideapp.photovault.calculatorvault)**: A versatile calculator lock app used for locking/unlocking apps, hiding/unhiding images, and managing files discreetly.
 
+- **[Cryptolist](https://github.com/SumaibH/Cryptolist)**: A Crypto App – your ultimate companion in the fast-paced world of cryptocurrency. Experience lightning-fast access to all your trades, armed with a robust Trade Tracker and Crypto Profit Calculator.
+
 Cheers!
