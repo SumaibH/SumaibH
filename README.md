@@ -2,7 +2,7 @@
 
 Hello! I'm Sumaib Hamza.
 
-As a Senior Native Android Developer & Freelancer, I have over 4 years of experience in Java, Kotlin, MVVM, Clean Architecture, and Dagger Hilt, along with 2 years of mobile UI/UX design expertise using Figma. I specialize in building scalable, user-focused Android applications while leveraging the latest technologies to optimize development.
+As a Senior Native Android Developer & Freelancer, I have almost 5 years of experience in Java, Kotlin, MVVM, Clean Architecture, and Dagger Hilt, along with 2 years of mobile UI/UX design expertise using Figma. I specialize in building scalable, user-focused Android applications while leveraging the latest technologies to optimize development.
 
 ### I’m currently working on:
 - Developing innovative and user-friendly Android applications that solve real-world problems.
