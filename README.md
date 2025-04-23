@@ -30,4 +30,6 @@ As a Senior Native Android Developer & Freelancer, I have almost 5 years of expe
 
 - **[Cryptolist](https://github.com/SumaibH/Cryptolist-Trade-Tracker)**: A Crypto App – your ultimate companion in the fast-paced world of cryptocurrency. Experience lightning-fast access to all your trades, armed with a robust Trade Tracker and Crypto Profit Calculator.
 
+- **[AppsBlocker](https://github.com/SumaibH/AppsBlocker)**: A Focus Companion – your go-to solution for managing distractions in the digital world. Take charge of your time with smart app and website blocking, tailored schedules, and a powerful strict mode designed to boost your productivity and well-being.
+
 Cheers!
