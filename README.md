@@ -1,35 +1,66 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumaib H. — Android Team Lead & Senior Developer
 
-Hello! I'm Sumaib Hamza.
+Android Team Lead with over **5 years** of hands‑on experience in native Android development using **Kotlin**, **Java**, **MVVM**, and **Clean Architecture**. I lead teams, manage lifecycles, and deliver high‑performance mobile applications with clean UI layouts and intuitive UX flows. I'm passionate about mentoring developers, improving app quality, and building user‑focused mobile solutions with strong visual appeal.
 
-As a Senior Native Android Developer & Freelancer, I have almost 5 years of experience in Java, Kotlin, MVVM, Clean Architecture, and Dagger Hilt, along with 2 years of mobile UI/UX design expertise using Figma. I specialize in building scalable, user-focused Android applications while leveraging the latest technologies to optimize development.
+## 🚀 What I Do
 
-### I’m currently working on:
-- Developing innovative and user-friendly Android applications that solve real-world problems.
+- **Android Development:** Build modern, scalable Android apps using Kotlin, Hilt, Compose, and Clean Architecture.
+- **Leadership & Mentorship:** Lead teams of developers, conduct code reviews, plan sprints, and mentor juniors.
+- **User‑Focused UX:** Collaborate with designers to craft smooth UI/UX with attention to accessibility and performance.
+- **Cross‑Industry Expertise:** Experience in finance, healthcare, logistics, and e‑commerce projects.
 
-### I’m currently learning:
-- The latest trends and technologies in mobile app development to keep my projects ahead of the curve.
+## 🧐 Technical Skills
 
-### I’m looking to collaborate on:
-- Exciting projects in the mobile app development space where I can push the boundaries of what's possible.
+- **Programming Languages:** Kotlin, Java, Jetpack Compose, XML
+- **Tools & Frameworks:** Android Studio, MVVM, Room DB, Hilt, Firebase, Postman, Jira, GitHub, Figma, Illustrator
+- **Soft Skills:** Leadership, Project Planning, Team Collaboration, Problem Solving, Mentorship
+- **Spoken Languages:** English (9/10), Urdu (9/10), Punjabi (9/10)
 
-### I’m looking for help with:
-- Scaling my applications to reach more users and integrating cutting-edge features.
+## 💼 Work Experience
 
-### Ask me about:
-- Android app development, UI/UX design, and strategies for successful app launches.
+### WebsCare (Pvt.) Ltd. – Android Development Team Lead (Mar 2025 – Present)
 
-### How to reach me:
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sumaib-h/) or [Fiverr](https://www.fiverr.com/rectifi) or via email at sumaibh@gmail.com.
+- Lead a team of 5 Android developers on multiple client projects.
+- Build modern, scalable Android apps using Kotlin, Hilt, and Clean Architecture.
+- Conduct code reviews, plan sprints, and mentor junior developers.
+- Improved app performance by **35 %** through layout optimization and efficient API handling.
+- Manage QA testing, versioning, and Play Console publishing.
 
-### Check out some of my work:
+### Gamican (Pvt.) Ltd. – Senior Android Developer (Mar 2024 – Sep 2024)
 
-- **[Wallpaper App](https://play.google.com/store/apps/details?id=com.swedai.ai.wallpapers.art.background.anime_wallpaper.aiphoto)**: A comprehensive wallpaper app with APIs, image caching, live wallpapers, and a range of options for users. With over 7 million downloads, it's a favorite among users looking for stunning backgrounds.
+- Developed high‑traffic mobile apps using Kotlin, MVVM, and Room DB.
+- Integrated Firebase Auth, Crashlytics, and Messaging for analytics and stability.
+- Optimized startup time by **30 %** with lazy loading and background threading.
+- Collaborated with designers to refine layouts, transitions, and accessibility.
 
-- **[Calculator Lock App](https://play.google.com/store/apps/details?id=calculatorlock.hideapp.photovault.calculatorvault)**: A versatile calculator lock app used for locking/unlocking apps, hiding/unhiding images, and managing files discreetly.
+### Light House Solutions – Senior Android Developer (Feb 2023 – Feb 2024)
 
-- **[Cryptolist](https://github.com/SumaibH/Cryptolist-Trade-Tracker)**: A Crypto App – your ultimate companion in the fast-paced world of cryptocurrency. Experience lightning-fast access to all your trades, armed with a robust Trade Tracker and Crypto Profit Calculator.
+- Delivered custom Android apps for logistics and e‑commerce sectors.
+- Designed modular UI components and ensured API‑level compatibility.
+- Managed Git branching and version control for multi‑developer projects.
+- Supported QA and assisted new engineers during onboarding.
 
-- **[AppsBlocker](https://github.com/SumaibH/AppsBlocker)**: A Focus Companion – your go-to solution for managing distractions in the digital world. Take charge of your time with smart app and website blocking, tailored schedules, and a powerful strict mode designed to boost your productivity and well-being.
+### AppQueue & Beta Angels – Android Developer (2020 – 2023)
 
-Cheers!
+- Built **10 +** native Android apps using Kotlin, Java, and XML layouts.
+- Implemented in‑app purchases, push notifications, and offline caching.
+- Focused on smooth UX, memory optimization, and bug‑free deployment.
+
+## 🎓 Education
+
+- **Bachelor of Software Engineering**, University of Lahore (2018 – 2022)
+
+## 📊 GitHub Stats
+
+![Sumaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=webscare99-lgtm&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=webscare99-lgtm&layout=compact&theme=radical)
+
+## 📧 Contact Me
+
+- **Email:** [sumaibh@gmail.com](mailto:sumaibh@gmail.com)
+- **Phone:** +92 318 4726436
+- **Location:** Sargodha, Pakistan (UTC+5)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/)
+- **GitHub:** [github.com/webscare99-lgtm](https://github.com/webscare99-lgtm)
+
+*Feel free to reach out for remote or hybrid opportunities, collaborations, or just to chat about mobile development!*
