@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Gmail-sumaibh%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=e2d9f3&labelColor=161b22"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/sumaib-h">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-7c3aed?style=flat-square&logo=linkedin&logoColor=e2d9f3&labelColor=161b22"/>
   </a>
   &nbsp;
@@ -148,7 +148,7 @@ location:   Sargodha, Pakistan  (UTC +5)
     <img src="https://img.shields.io/badge/Email%20Me-sumaibh%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=e2d9f3&labelColor=161b22"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/sumaib-h">
     <img src="https://img.shields.io/badge/LinkedIn-View%20Profile-7c3aed?style=for-the-badge&logo=linkedin&logoColor=e2d9f3&labelColor=161b22"/>
   </a>
 </p>
